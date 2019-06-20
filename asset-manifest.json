@@ -1,5 +1,5 @@
 {
-  "main.css": "/minapp/static/css/main.af8d8afb.chunk.css",
+  "main.css": "/minapp/static/css/main.02575cb6.chunk.css",
   "main.js": "/minapp/static/js/main.b5ea434c.chunk.js",
   "main.js.map": "/minapp/static/js/main.b5ea434c.chunk.js.map",
   "runtime~main.js": "/minapp/static/js/runtime~main.fc5a0406.js",
@@ -8,8 +8,8 @@
   "static/js/2.26473690.chunk.js": "/minapp/static/js/2.26473690.chunk.js",
   "static/js/2.26473690.chunk.js.map": "/minapp/static/js/2.26473690.chunk.js.map",
   "index.html": "/minapp/index.html",
-  "precache-manifest.0dacf7f04ee8bf10509fb53d0d75030f.js": "/minapp/precache-manifest.0dacf7f04ee8bf10509fb53d0d75030f.js",
+  "precache-manifest.1d2463539c846233405e4f5b5c124fb0.js": "/minapp/precache-manifest.1d2463539c846233405e4f5b5c124fb0.js",
   "service-worker.js": "/minapp/service-worker.js",
   "static/css/2.99aabaad.chunk.css.map": "/minapp/static/css/2.99aabaad.chunk.css.map",
-  "static/css/main.af8d8afb.chunk.css.map": "/minapp/static/css/main.af8d8afb.chunk.css.map"
+  "static/css/main.02575cb6.chunk.css.map": "/minapp/static/css/main.02575cb6.chunk.css.map"
 }
